@@ -22,11 +22,7 @@ Currently, two official plugins are available:
 - Framer Motion
 
 ### How to Run 
-1. Clone this repo  
-   git clone https://github.com/Rit1791/LeaveManagement.git
-2. Navigate to the project folder
-   cd LeaveManagement
-3.Install dependencies
-   npm install
-4.Start the development server
-   npm run dev
+1. git clone https://github.com/Rit1791/LeaveManagement.git
+2. cd LeaveManagement
+3. npm install
+4. npm run dev 
